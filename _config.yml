@@ -1,8 +1,8 @@
-title: Some beautiful little title
-title_split: Some|beautiful|little|title
+title: piratax007
+title_split: piratax007|info
 brand: BRAND
 #host: https://thesite.something
-email: contact@thesite.something
+email: contact@piratax007.info
 encoding: utf-8
 future: true
 dev_host: http://localhost:4000
@@ -10,8 +10,8 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-twitter_username: twitter_user
-github_username:  github_user
+twitter_username: piratax007
+github_username:  piratax007
 
 # Licence
 license:
