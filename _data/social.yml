@@ -1,9 +1,14 @@
 - name: Twitter
   slug: twitter
-  url: twitter account url
+  url: https://twitter.com/piratax007
   icon: icon-twitter.svg
 
-- name: Instagram
-  slug: instagram
-  url: instagram account url
-  icon: icon-instagram.svg
+- name: Youtube
+  slug: youtube
+  url: https://youtube.com/c/brainontube
+  icon: icon-youtube.svg
+
+- name: Github
+  slug: github
+  url: https://github.com/piratax007
+  icon: icon-github.svg
