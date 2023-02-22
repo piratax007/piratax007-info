@@ -41,7 +41,7 @@ module.exports = {
         customGray: 'rgb(251, 253, 255)',
       },
       fontFamily: {
-        sans: ['Josefin Sans', ...defaultTheme.fontFamily.sans],
+        sans: ['JetBrains Mono', ...defaultTheme.fontFamily.sans],
         mono: [
           'JetBrains Mono',
         ],
