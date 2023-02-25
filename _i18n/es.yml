@@ -8,7 +8,7 @@ greets: ¡Hola Mundo Docker!
 
 site:
   description: Alguna descripción cautivadora.
-  slogan: Una frase como slogan.
+  slogan: '"Iniciamos con una página en blanco y podemos crear casi cualquier cosa que imaginemos, y las cosas que creamos pueden cambiar el mundo"'
 
 urls:
   about: /es/about.html

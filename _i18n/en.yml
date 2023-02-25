@@ -8,7 +8,7 @@ greets: Hello Docker world!
 
 site:
   description: Some enjoyable description.
-  slogan: A phrase as slogan.
+  slogan: '"We start with a blank page, and we can create pretty much anything we can imagine. And the things we create can change the world"'
 
 urls:
   about: /about.html
