@@ -2,6 +2,15 @@
 layout: default
 title: titles.about
 ---
-<h1>{% t site.description %}</h1>
 
-<p>{% tf about/site_about.md %}</p>
+<section id="about-header">
+    {% include partials/developer.html %}
+</section>
+
+<section id="academic-background" class="pb-10">
+    <div class="relative container flex flex-col item.start px-6 mx-auto">
+        <div class="absolute top-24 w-10/22 left-16 h-2 bg-customDarkYellow md:block"></div>
+
+    </div>
+</section>
+

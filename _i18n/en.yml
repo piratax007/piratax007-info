@@ -4,7 +4,11 @@ titles:
   blog: Blog
   projects: Projects
 
-greets: Hello Docker world!
+about:
+  name: Fausto M. Lagos S.
+  bachelor: Mathematics and Statistics
+  msc: MSc. Computational Engineering and Mathematics
+  current_position: Software Developer at Centro de Autonomía Digital
 
 site:
   description: Some enjoyable description.
