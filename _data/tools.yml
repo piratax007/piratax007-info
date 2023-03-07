@@ -1,0 +1,23 @@
+- name: Debian GNU / Linux
+  icon: icon-debian.svg
+
+- name: Docker
+  icon: icon-docker.svg
+
+- name: emacs
+  icon: icon-emacs.svg
+
+- name: GoLand
+  icon: icon-goland.svg
+
+- name: PyCharm
+  icon: icon-pycharm.svg
+
+- name: WebStorm
+  icon: icon-webstorm.svg
+
+- name: Tor
+  icon: icon-tor.svg
+
+- name: Tails
+  icon: icon-tails.svg
