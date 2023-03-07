@@ -1,0 +1,43 @@
+<!--<div class="hidden absolute top-24 w-10/22 left-16 h-3 bg-customBlueBase md:block"></div>-->
+<div class="relative items-center flex flex-col p-6 space-y-6 bg-customBlueBase dark:bg-customDarkLight rounded-lg md:w-auto">
+    <div class="absolute -ml-10 left-1/2 -top-10 md:left-16">
+        <div class="flex items-center justify-center w-20 h-20 p-4 rounded-full bg-customLightBlue">
+            <img src="assets/images/icons/icon-experience.svg" alt="" />
+        </div>
+    </div>
+    <h5 class="pt-6 text-xl found-bold text-center capitalize md:text-left w-full">
+        {% t about.experience.title %}
+    </h5>
+</div>
+
+<div class="relative flex flex-col md:w-1/3">
+    <div class="relative flex flex-col mt-24 p-6 bg-customBlueBase dark:bg-customDarkLight rounded-lg -top-10 md:mt-8">
+        <h5 class="pt-6 text-xl found-bold text-center md:text-left w-full">
+            {% t about.experience.current_position.title %}
+        </h5>
+        <h5 class="text-lg found-bold text-center md:text-left w-full">
+            {% t about.experience.current_position.description %}
+        </h5>
+        <div class="flex flex-row items-center">
+            <img src="assets/images/icons/icon-location.svg" alt="" class="w-10 h-10"/>
+            <h6 class="text-lg w-full">
+                Quito - Ecuador
+            </h6>
+        </div>
+    </div>
+
+    <div class="relative flex flex-col p-6 bg-customBlueBase dark:bg-customDarkLight rounded-lg md:mt-8">
+        <h5 class="pt-6 text-xl found-bold text-center md:text-left w-full">
+            {% t about.experience.backward_position.title %}
+        </h5>
+        <h5 class="text-lg found-bold text-center md:text-left w-full">
+            {% t about.experience.backward_position.description %}
+        </h5>
+        <div class="flex flex-row items-center">
+            <img src="assets/images/icons/icon-location.svg" alt="" class="w-10 h-10"/>
+            <h6 class="text-lg w-full">
+                Duitama - Colombia
+            </h6>
+        </div>
+    </div>
+</div>
