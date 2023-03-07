@@ -6,9 +6,22 @@ titles:
 
 about:
   name: Fausto M. Lagos S.
-  bachelor: Mathematics and Statistics
-  msc: MSc. Computational Engineering and Mathematics
-  current_position: Software Developer at Centro de Autonomía Digital
+  academic_background:
+    title: Academic Background
+    bachelor:
+      title: Mathematics and Statistics
+      affiliation: Pedagogical and Technological University of Colombia
+    msc:
+      title: MSc. Computational Engineering and Mathematics
+      affiliation: Universidad Rovira i Virgili
+  experience:
+    title: Professional Experience
+    current_position:
+      title: Current Position
+      description: Software Developer at Centro de Autonomía Digital
+    backward_position:
+      title: 2009 - 2021
+      description: Calculus Teacher at Seminario Diocesano School
 
 site:
   description: Some enjoyable description.
@@ -32,5 +45,4 @@ labels:
   share_in_twitter: Share in Twitter
   share_in_facebook: Share in Facebook
   share_via_email: Share via Email
-  share_email_body: Check out this article I found on the Estupinan Art blog
-  galleries: Visit our galleries
+  share_email_body: Check out this article I found on the @piratax007 blog
