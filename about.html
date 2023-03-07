@@ -4,13 +4,17 @@ title: titles.about
 ---
 
 <section id="about-header">
-    {% include partials/developer.html %}
+    {% include partials/about/developer.html %}
 </section>
 
-<section id="academic-background" class="pb-10">
-    <div class="relative container flex flex-col item.start px-6 mx-auto">
-        <div class="absolute top-24 w-10/22 left-16 h-2 bg-customDarkYellow md:block"></div>
-
+<section id="academic-background" class="pb-32 pt-10">
+    <div class="relative container flex flex-col items-center px-6 mx-auto md:flex-row md:space-x-7">
+        {% include partials/about/academic-background.html %}
     </div>
 </section>
 
+<section id="professional-experience" class="pb-32 pt-10">
+    <div class="relative container flex flex-col items-center px-6 mx-auto md:flex-row md:space-x-7">
+        {% include partials/about/experience.html %}
+    </div>
+</section>
