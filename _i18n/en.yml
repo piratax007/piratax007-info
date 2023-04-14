@@ -24,8 +24,8 @@ about:
       description: Calculus Teacher at Seminario Diocesano School
 
 site:
-  description: Some enjoyable description.
-  slogan: '"We start with a blank page, and we can create pretty much anything we can imagine. And the things we create can change the world"'
+  description: Mathemathics, Free Software, Programming and Science.
+  slogan: Science is magic useful
 
 urls:
   about: /about.html

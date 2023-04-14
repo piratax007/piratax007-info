@@ -24,8 +24,8 @@ about:
       description: Profesor de Cálculo en Colegio Seminario Diocesano
 
 site:
-  description: Alguna descripción cautivadora.
-  slogan: '"Iniciamos con una página en blanco y podemos crear casi cualquier cosa que imaginemos, y las cosas que creamos pueden cambiar el mundo"'
+  description: Matemáticas, Software Libre, Programación y Ciencia.
+  slogan: La ciencia es magia útil
 
 urls:
   about: /es/about.html
