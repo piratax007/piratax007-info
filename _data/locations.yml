@@ -1,3 +1,7 @@
-- location:
-  address: 127.0.0.0
-  email: contact@piratax007.info
+- location: email address
+  name: contact@piratax007.info
+  icon: mail.svg
+
+- location: GPG fingerprint
+  name: efb6 9fd7 d69a d1ed b571 df7d f1fd 79f3 9e5a f3d6 9d7f 979c e5d6 b5ef 7e5f
+  icon: icon-gnupg.svg
