@@ -1,0 +1,7 @@
+- organization: overleaf
+  name: Overleaf Advisor
+  icon: icon-overleaf.svg
+
+- organization: github
+  name: Github Campus Advisor
+  icon: icon-github.svg
