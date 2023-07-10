@@ -1,5 +1,7 @@
-- title: projects.first_project.title
-  description: projects.first_project.description
+- title: projects.torified_jekyll.title
+  description: projects.torified_jekyll.description
+  icon: icon-jekyll.svg
 
-- title: projects.second_project.title
-  description: projects.second_project.description
+- title: projects.wahay.title
+  description: projects.wahay.description
+  icon: icon-wahay.svg

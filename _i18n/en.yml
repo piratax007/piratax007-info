@@ -33,12 +33,26 @@ urls:
   projects: /projects.html
 
 projects:
-  first_project:
-    title: A engagement title
-    description: What about this project
-  second_project:
-    title: A new title project
-    description: An interesting text
+  torified_jekyll:
+    title: Jekyll blog torified
+    short_description: Publish an anonymity blog over Tor network
+    description: This project takes a Docker image for a Jekyll simple template adding the automation needed helpers to publish your blog on the Tor network, allowing you to manage the blog contents through an SSH torified connection.
+  wahay:
+    title: Wahay
+    short_description: Secure and private VoIP conferences
+    description: Wahay is an application for VoIP conferences, is written in Go and implements Mumble as the VoIP protocol. Wahay uses tor onion services to add anonymity and improve privacy features. Wahay is a decentralized service. Currently, mounting a Wahay server is allowed only from a GNU/Linux distribution. However, anything torified Mumble client - including Android clients - is compatible with a Wahay conference.
+  keymirror:
+    title: keymirror
+    short_description: Cryptographic keys manager
+    description: Keymirror is an MVP of a cypher keys manager. The goal of Keymirror was to develop a desktop application that allows its users to know what available keys are in the local system and how the user is using that.
+  coyim:
+    title: CoyIM
+    short_description: Safe and secure chat
+    description: Desktop chat application focused on anonymity and privacy. CoyIM is a project owned by Centro de Autonomía Digital. CoyIM is a Free Software developed with Go programming language that implements OTR v3 as E2EE protocol and tor onion services to add an anonymity layer.
+  latex_course:
+    title: LaTeX Course 101
+    short_description: Learn LaTex from scratch
+    description: The LaTeX Course 101 was an introductory course to LaTeX v2 oriented to the general construction of documents with a scientific approach. This course was the Spanish course reference proposed by Overleaf. In this course, you can find the fundamentals of LaTeX, how to make custom commands and environments and how to use columns, tables and references effectively.
 
 labels:
   featured: Featured

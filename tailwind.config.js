@@ -40,6 +40,8 @@ module.exports = {
         customDarkLight: 'rgb(25, 32, 40)',
         customRed: 'rgb(147, 0, 0)',
         customGray: 'rgb(251, 253, 255)',
+        coyim: 'rgb(241, 74, 66)',
+        wahay: 'rgb(34, 204, 128)',
       },
       fontFamily: {
         sans: ['JetBrains Mono', ...defaultTheme.fontFamily.sans],

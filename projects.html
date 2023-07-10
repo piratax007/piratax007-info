@@ -2,9 +2,92 @@
 layout: default
 title: titles.projects
 ---
-<h1>{% t page.title %}</h1>
 
-{% for project in site.data.projects %}
-<h2>{% t project.title %}</h2>
-<p>{% t project.description %}</p>
-{% endfor %}
+<section id="projects-header">
+    {% include partials/projects/projects-head.html %}
+</section>
+
+<div id="projects-details" class="container mx-auto max-w-7xl p-2 md:p-10">
+    <div class="grid gap-6 text-white grid-cols-1 md:grid-cols-4 md:grid-rows-3">
+    <!-- Jekyll blog over tor -->
+        <div class="relative p-10 rounded-xl bg-customDarkLight md:col-span-4">
+            <div class="flex z-10 space-x-4">
+                <img class="w-14 h-14 p-2 rounded-full ring-2 ring-customRed" src="assets/images/icons/icon-jekyll.svg" alt="" />
+                <div class="text-sm">
+                    <h4 class="opacity-90">{% t projects.torified_jekyll.title %}</h4>
+                    <p class="opacity-50">{% t projects.torified_jekyll.short_description %}</p>
+                </div>
+            </div>
+            <p class="relative z-10 mt-6 text-lg">
+                {% t projects.torified_jekyll.description %}
+            </p>
+            <p class="opacity-50 z-10 mt-6 md:mt-8">
+                <a href="https://github.com/digitalautonomy/Jekyll-Onion-blog">https://github.com/digitalautonomy/Jekyll-Onion-blog</a>
+            </p>
+        </div>
+    <!-- Wahay -->
+        <div class="p-10 rounded-xl bg-customLightGreen text-black md:row-start-2 md:row-span-2">
+            <div class="flex z-10 space-x-4">
+                <img class="w-14 h-14 p-2 rounded-full ring-2 ring-wahay" src="assets/images/icons/icon-wahay.svg" alt="" />
+                <div class="text-sm">
+                    <h4 class="opacity-90">{% t projects.wahay.title %}</h4>
+                    <p class="opacity-50">{% t projects.wahay.short_description %}</p>
+                </div>
+            </div>
+            <p class="relative z-10 mt-6 text-lg">
+                {% t projects.wahay.description %}
+            </p>
+            <p class="opacity-50 z-10 mt-6 md:mt-8">
+                <a href="https://github.com/digitalautonomy/wahay">https://github.com/digitalautonomy/wahay</a>
+            </p>
+        </div>
+    <!-- Keymirror -->
+        <div class="p-10 rounded-xl bg-customBlueBase text-black">
+            <div class="flex z-10 space-x-4">
+                <img class="w-14 h-14 p-2 rounded-full ring-2 ring-black" src="assets/images/icons/icon-keymirror.svg" alt="" />
+                <div class="text-sm">
+                    <h4 class="opacity-90">{% t projects.keymirror.title %}</h4>
+                    <p class="opacity-50">{% t projects.keymirror.short_description %}</p>
+                </div>
+            </div>
+            <p class="relative z-10 mt-6 text-lg">
+                {% t projects.keymirror.description %}
+            </p>
+            <p class="opacity-50 z-10 mt-6 md:mt-8">
+                <a href="https://github.com/digitalautonomy/keymirror">https://github.com/digitalautonomy/keymirror</a>
+            </p>
+        </div>
+    <!-- CoyIM -->
+        <div class="p-10 rounded-xl bg-black md:col-span-2">
+            <div class="flex z-10 space-x-4">
+                <img class="w-14 h-14 p-2 rounded-full ring-2 ring-coyim" src="assets/images/icons/icon-coyim.svg" alt="" />
+                <div class="text-sm">
+                    <h4 class="opacity-90">{% t projects.coyim.title %}</h4>
+                    <p class="opacity-50">{% t projects.coyim.short_description %}</p>
+                </div>
+            </div>
+            <p class="relative z-10 mt-6 text-lg">
+                {% t projects.coyim.description %}
+            </p>
+            <p class="opacity-50 z-10 mt-6 md:mt-8">
+                <a href="https://github.com/coyim/coyim">https://github.com/coyim/coyim</a>
+            </p>
+        </div>
+    <!-- LaTeX Course 101 -->
+        <div class="p-10 rounded-xl bg-customDarkBlue md:col-span-3">
+            <div class="flex z-10 space-x-4">
+                <img class="w-14 h-14 p-2 rounded-full ring-2 ring-customDarkGreen" src="assets/images/icons/icon-latex.svg" alt="" />
+                <div class="text-sm">
+                    <h4 class="opacity-90">{% t projects.latex_course.title %}</h4>
+                    <p class="opacity-50">{% t projects.latex_course.short_description %}</p>
+                </div>
+            </div>
+            <p class="relative z-10 mt-6 text-lg">
+                {% t projects.latex_course.description %}
+            </p>
+            <p class="opacity-50 z-10 mt-6 md:mt-8">
+                <a href="https://github.com/piratax007/LaTeX_Course">https://github.com/piratax007/LaTeX_Course</a>
+            </p>
+        </div>
+    </div>
+</div>

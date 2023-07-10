@@ -33,12 +33,26 @@ urls:
   projects: /es/projects.html
 
 projects:
-  first_project:
-    title: Un atractivo título
-    description: Algo que decir acerca de este proyecto
-  second_project:
-    title: El título del nuevo proyecto
-    description: Un texto interesante
+  torified_jekyll:
+    title: Blog Jekyll torificado
+    short_description: Publica tu blog de forma anónima sobre Tor
+    description: Este proyecto toma una imagen de Docker conteniendo una plantilla simple para Jekyll, y agrega ayudantes de automatización para publicar un blog en la red Tor permitiendo su administración a través de una conexión SSH torificada.
+  wahay:
+    title: Wahay
+    short_description: Conferencias de voz privadas y anónimas
+    description: Wahay es una aplicación para conferencias VoIP que está escrita en Go e implementa el protocolo Mumble. Wahay utiliza los servicios cebolla de tor para agregar anonimato y mejorar las prestaciones de privacidad. Wahay es un servicio descentralizado. Actualmente, montar un servidor de Wahay solo puede hacerse desde una distribución de GNU/Linus, sin embargo, cualquier cliente torificado de Mumble, puede conectarse a una conferencia de Wahay.
+  keymirror:
+    title: keymirror
+    short_description: Administrador de llaves criptográficas
+    description: Keymirror es un MVP de un administrador de llaves criptograficas. El objetivo con Keymirror fue desarollar una aplicación de escritorio que permitiera a sus usuarios conocer de qué llaves dispone en su sistema local y cómo las esta usando.
+  coyim:
+    title: CoyIM
+    short_description: Chat privado, seguro y anónimo
+    description: CoyIM es una aplicación de chat para el escritorio, enfocada en el anonimato y la privacidad. CoyIM es un proyecto del Centro de Autonomía Digital. Es Software Libre, desarrollado con Go, implementa OTR v3 como protocolo E2EE y servicios cebolla de tor para agregar anonimato en la comunicación.
+  latex_course:
+    title: Curso de introducción a LaTeX
+    short_description: Aprende LaTeX desde cero
+    description: El curso de introducción a LaTeX fue un curso basado en el uso de LaTeX v2, estuvo orientado a la elaboración de documentos en general con un enfoque científico. En este curso se pueden encontrar los fundamentos de LaTeX, como desarrollar comandos y ambientes personalizados y cómo utilizar, columnas, tablas y referencias efectivamente.
 
 labels:
   featured: Destacado

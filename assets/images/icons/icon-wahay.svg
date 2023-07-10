@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="w-full h-auto fill-current text-gray-100"
+   width="100"
+   height="100"
+   viewBox="0 0 93 100"
+   fill="none"
+   version="1.1"
+   id="svg106"
+   sodipodi:docname="icon-wahay.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs110" />
+  <sodipodi:namedview
+     id="namedview108"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.58"
+     inkscape:cx="50.065963"
+     inkscape:cy="54.683377"
+     inkscape:window-width="1916"
+     inkscape:window-height="1036"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg106" />
+  <path
+     d="M9.417 37.2022C9.417 16.656 26.073 0 46.6192 0C67.1653 0 83.8213 16.656 83.8213 37.2022V70.2377C83.8213 70.8952 83.2883 71.4281 82.6309 71.4281L77.2733 71.4282V37.2022C77.2733 20.2721 63.5487 6.54759 46.6187 6.54759C29.6886 6.54759 15.9641 20.2721 15.9641 37.2022V71.4282L10.6075 71.4281C9.94999 71.4281 9.417 70.8952 9.417 70.2377V37.2022Z"
+     class="fill-current"
+     id="path96"
+     style="fill:#22cc80;fill-opacity:1" />
+  <path
+     d="M53.8439 78.4627V37.8863C53.8439 33.9032 50.615 30.6742 46.6319 30.6742C42.6487 30.6742 39.4198 33.9032 39.4198 37.8863V78.4627C39.4198 82.4458 42.6487 85.6748 46.6319 85.6748C50.615 85.6748 53.8439 82.4458 53.8439 78.4627Z"
+     class="fill-current"
+     id="path98"
+     style="fill:#22cc80;fill-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M26.4547 36.9896C26.4547 25.8466 35.4879 16.8134 46.6308 16.8134C57.7738 16.8134 66.807 25.8466 66.807 36.9896V79.8078C66.807 90.9507 57.7738 99.9839 46.6308 99.9839C35.4879 99.9839 26.4547 90.9508 26.4547 79.8078V36.9896ZM46.6319 26.4531C40.3175 26.4531 35.1987 31.5719 35.1987 37.8863V78.4627C35.1987 84.7771 40.3175 89.8959 46.6319 89.8959C52.9462 89.8959 58.065 84.7771 58.065 78.4627V37.8863C58.065 31.5719 52.9462 26.4531 46.6319 26.4531Z"
+     class="fill-current"
+     id="path100"
+     style="fill:#22cc80;fill-opacity:1" />
+  <path
+     d="M0 47.0776C0 45.8395 1.00368 44.8358 2.24179 44.8358H7.73805V71.6214H2.24179C1.00368 71.6214 0 70.6177 0 69.3796V47.0776Z"
+     class="fill-current"
+     id="path102"
+     style="fill:#22cc80;fill-opacity:1" />
+  <path
+     d="M90.9084 44.8358H85.4121V71.6214H90.9084C92.1465 71.6214 93.1502 70.6177 93.1502 69.3796V47.0776C93.1502 45.8395 92.1465 44.8358 90.9084 44.8358Z"
+     class="fill-current"
+     id="path104"
+     style="fill:#22cc80;fill-opacity:1" />
+</svg>
