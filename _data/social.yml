@@ -1,7 +1,7 @@
-- name: Twitter
-  slug: twitter
-  url: https://twitter.com/piratax007
-  icon: icon-twitter.svg
+- name: LinkedIn
+  slug: linkedin
+  url: https://www.linkedin.com/in/fausto-mauricio-lagos-suarez-5924a5219/
+  icon: icon-linkedin.svg
 
 - name: Youtube
   slug: youtube
