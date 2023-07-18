@@ -3,10 +3,10 @@
   url: https://www.linkedin.com/in/fausto-mauricio-lagos-suarez-5924a5219/
   icon: icon-linkedin.svg
 
-- name: Youtube
-  slug: youtube
-  url: https://youtube.com/c/brainontube
-  icon: icon-youtube.svg
+- name: Pluralsight
+  slug: pluralsight
+  url: https://app.pluralsight.com/profile/faustomauricio-lagos
+  icon: icon-pluralsight.svg
 
 - name: Github
   slug: github
