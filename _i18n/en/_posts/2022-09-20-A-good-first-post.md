@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This is an awesome first post
+tags: [free_software]
 ---
 ## About ring theory
 

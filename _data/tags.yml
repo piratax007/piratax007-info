@@ -1,0 +1,10 @@
+security: tags.security
+privacy: tags.privacy
+free_software: tags.free_software
+maths: tags.maths
+latex: tags.latex
+robotics: tags.robotics
+programming: tags.programming
+arduino: tags.arduino
+raspberry_pi: tags.raspberry_pi
+debian: tags.debian

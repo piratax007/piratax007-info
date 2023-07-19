@@ -56,8 +56,23 @@ projects:
 
 labels:
   featured: Destacado
+  posts_in: Publicaciones en
+  newer_posts: Publicaciones nuevas
+  older_posts: Publicaciones antiguas
   share_in_linkedin: Compartir en Linkedin
   share_in_twitter: Compartir en Twitter
   share_in_facebook: Compartir en Facebook
   share_via_email: Compartir por correo electrónico
   share_email_body: Mira este artículo que encontré en el blog de @piratax007
+
+tags:
+  security: Seguridad
+  privacy: Privacidad
+  free_software: Software Libre
+  maths: Matemáticas
+  latex: LaTeX
+  robotics: Robótica
+  programming: Programación
+  arduino: Arduino
+  raspberry_pi: Raspberry Pi
+  debian: Debian

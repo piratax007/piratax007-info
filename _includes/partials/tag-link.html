@@ -1,0 +1,6 @@
+{% assign slug = include.value %}
+{% assign tag_token = site.data.tags[slug] %}
+{% capture current_url %}/tag/{{ slug }}/index.html{% endcapture %}
+<a class="nav-link post-tags__link{% if current_url == page.url %} active{% else %} hover:underline{% endif %}" href="{{ site.baseurl }}/tag/{{ slug }}">
+    {% include partials/tag-name.html name=tag_token %}
+</a>

@@ -40,4 +40,18 @@ title: page.title
             </div>
         </div>
     </div>
+
+    <div class="bg-customDarkLight text-customLightBlue">
+        <div class="container max-w-screen-md mx-auto">
+            {% if page.tags %}
+            <div class="py-10 lg:py-20 text-lg lg:text-xl xl:text-2xl font-semibold xl:font-bold lg:tracking-tight flex items-center justify-center flex-wrap gap-4 lg:gap-6">
+                {% for tag_name in page.tags %}
+                {% include partials/tag-link.html value=tag_name %}
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+        <hr class="mt-lg-2 mb-0" />
+    </div>
+
 </article>

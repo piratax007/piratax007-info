@@ -59,4 +59,4 @@ keep_files:
   - assets/css/tailwind.css.map
 
 pagination:
-  enabled: false
+  enabled: true

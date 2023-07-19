@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Este es un asombroso primer post
+tags: [free_software]
 ---
 
 ## Acerca del álgebra abstracta

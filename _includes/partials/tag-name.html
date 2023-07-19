@@ -1,0 +1,6 @@
+{% assign value = include.name %}
+{% if value contains '.' %}
+    {% t value %}
+{% else %}
+    {{ value }}
+{% endif %}
